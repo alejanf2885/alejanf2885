@@ -12,7 +12,7 @@ Actualmente combino experiencia práctica con formación en **arquitecturas Clou
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejanf)
 [![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:alejandro.navarro.fernandez@outlook.es)
-[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://TU-PORTFOLIO-AQUI)  
+
 <!-- Opcional: [![CV](...)](link) -->
 
 </div>
